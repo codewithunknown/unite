@@ -4,7 +4,7 @@ Welcome to the Problem Solving Dashboard! Here, you can keep track of your probl
 
 ## Overview
 
-- Total Problems Solved: ![Count](https://img.shields.io/badge/Problems%20Solved-0-blue)
+- Total Problems Solved: ![Count](https://img.shields.io/badge/Problems%20Solved-10-blue)
 
 ## Topics
 
