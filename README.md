@@ -23,7 +23,7 @@ Welcome to the Problem Solving Dashboard! Here, you can keep track of your probl
 
 ```json
 {
-  "count": 0,
+  "count": 10,
   "topics": {
     "arrays": ["two-sum", "three-sum", "max-sub-arr"],
     "pointers": ["swap-adj", "non-peaks"]
